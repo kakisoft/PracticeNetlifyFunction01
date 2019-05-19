@@ -1,0 +1,2 @@
+# PracticeNetlifyFunction01
+PracticeNetlifyFunction01
